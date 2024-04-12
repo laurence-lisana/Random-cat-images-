@@ -1,0 +1,21 @@
+Random Cat Image project
+This is a simple w project that fetches and displays random cat images from the Cat API in the web
+
+
+HOW TO USE
+
+To use this application, simply click the "Get Random Cat" button to fetch a new random cat image.
+
+languages Used
+
+HTML
+CSS
+JavaScript
+
+How to Run
+Clone this repository to your local machine.
+Open the index.html file in your web browser.
+
+
+
+and you will see random cat images.
